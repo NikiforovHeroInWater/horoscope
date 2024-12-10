@@ -1,0 +1,16 @@
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.exe
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.deps.json
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.runtimeconfig.json
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.dll
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\bin\Debug\net8.0-windows\Гороскоп.pdb
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.Form1.resources
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.csproj.GenerateResource.cache
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.AssemblyInfoInputs.cache
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.AssemblyInfo.cs
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.csproj.CoreCompileInputs.cache
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.dll
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\refint\Гороскоп.dll
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.pdb
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\Гороскоп.genruntimeconfig.cache
+C:\Users\ushak\source\repos\Гороскоп\Гороскоп\obj\Debug\net8.0-windows\ref\Гороскоп.dll
